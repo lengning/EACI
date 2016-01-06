@@ -1,0 +1,18 @@
+Package: EACI
+Type: Package
+Title: EACI: enrichment analysis taking continious inputs
+Version: 0.0.1
+Date: 2015-8-18
+Author: Ning Leng
+Maintainer: Ning Leng <lengning1@gmail.com>
+Description: EACI: enrichment analysis taking continious inputs
+License: Artistic-2.0
+LazyLoad: yes
+Collate:'eacifun.R'
+	'eacitest.R'
+	'easefun.R'
+	'easetest.R'
+	'PlotConcord.R'
+	'functions.R'
+BuildVignettes: no
+biocViews: StatisticalMethod, RNASeq, Sequencing, GeneExpression
